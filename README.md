@@ -1,4 +1,4 @@
-# Spotify_Music_Personality_Classifier
+# Spotify_Music_Genre_Classifier
 
 This capstone project is based on the audio features of Spotify’s song released in
 the Spotify API. In this project, I used features of 50K randomly picked songs to
