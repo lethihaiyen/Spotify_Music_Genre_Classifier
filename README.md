@@ -18,3 +18,5 @@ analysis on our model and then used the reduced data for Classification Models.
 For our dimension reduction, I used PCA. And for our Classification Models, I
 will be using Random Forest Classifier and Logistic Regression; then evaluate
 the two models using AUC score and along with accuracy score.
+
+- My model can be revised to produce better results. I acknowledge that using t-SNE instead of dimension reduction might increase the accuracy of my model. 
